@@ -1,1 +1,0 @@
-I love learning the docs-as-code methodology and processes.
